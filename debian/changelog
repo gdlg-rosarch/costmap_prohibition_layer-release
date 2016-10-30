@@ -1,0 +1,20 @@
+ros-kinetic-costmap-prohibition-layer (0.0.4-0wily) wily; urgency=high
+
+  * Enable recognizing Integer values in single points
+  * restored deleted line
+
+ -- Stephan Kurzawe <stephan.kurzawe@tu-dortmund.de>  Sat, 29 Oct 2016 22:00:00 -0000
+
+ros-kinetic-costmap-prohibition-layer (0.0.3-0wily) wily; urgency=high
+
+  * Install scripts added
+
+ -- Stephan Kurzawe <stephan.kurzawe@tu-dortmund.de>  Thu, 27 Oct 2016 22:00:00 -0000
+
+ros-kinetic-costmap-prohibition-layer (0.0.2-0wily) wily; urgency=high
+
+  * Initial package version
+
+ -- Stephan Kurzawe <stephan.kurzawe@tu-dortmund.de>  Wed, 26 Oct 2016 22:00:00 -0000
+
+
