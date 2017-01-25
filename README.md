@@ -1,3 +1,26 @@
+## costmap_prohibition_layer (kinetic) - 0.0.5-0
+
+The packages in the `costmap_prohibition_layer` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release costmap_prohibition_layer --track kinetic --rosdistro kinetic` on `Wed, 25 Jan 2017 12:29:07 -0000`
+
+The `costmap_prohibition_layer` package was released.
+
+Version of package(s) in repository `costmap_prohibition_layer`:
+
+- upstream repository: https://github.com/rst-tu-dortmund/costmap_prohibition_layer.git
+- release repository: https://github.com/rst-tu-dortmund/costmap_prohibition_layer-release.git
+- rosdistro version: `0.0.4-0`
+- old version: `0.0.4-0`
+- new version: `0.0.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## costmap_prohibition_layer (kinetic) - 0.0.4-0
 
 The packages in the `costmap_prohibition_layer` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release costmap_prohibition_layer --track kinetic --rosdistro kinetic` on `Sun, 30 Oct 2016 12:25:58 -0000`
