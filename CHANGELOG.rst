@@ -2,6 +2,11 @@
 Changelog for package costmap_prohibition_layer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2017-01-25)
+------------------
+* Support a rolling window map
+  Enable support for rolling window maps
+
 0.0.4 (2016-10-30)
 ------------------
 * Enable recognizing Integer values in single points
